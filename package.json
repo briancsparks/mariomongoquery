@@ -1,0 +1,24 @@
+{
+  "name": "mariomongoquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mariomongoquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/mariomongoquery.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/mariomongoquery/issues"
+  },
+  "homepage": "https://github.com/briancsparks/mariomongoquery#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "serverassist": "^0.1.8",
+    "sgsg": "^0.9.26"
+  }
+}
